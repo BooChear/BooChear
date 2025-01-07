@@ -30,6 +30,10 @@
 
 ###
 
+<p align="left">ᅠ</p>
+
+###
+
 <h3 align="center">💤 ‧₊˚✧ 𝐦𝐲 𝐭𝐨𝐨𝐥𝐤𝐢𝐭 ✧˚₊‧ 💤</h3>
 
 ###
@@ -50,6 +54,10 @@
 
 ###
 
+<p align="left">ᅠ</p>
+
+###
+
 <h3 align="center">🍵 ‧₊˚✧ 𝐰𝐡𝐚𝐭 𝐈 𝐰𝐨𝐫𝐤𝐞𝐝 𝐰𝐢𝐭𝐡 𝐛𝐞𝐟𝐨𝐫𝐞 𝐚𝐧𝐝 𝐰𝐢𝐥𝐥 𝐧𝐞𝐯𝐞𝐫 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡 𝐚𝐠𝐚𝐢𝐧 ✧˚₊‧ 🍵</h3>
 
 ###
@@ -65,6 +73,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
 </div>
+
+###
+
+<p align="left">ᅠ</p>
 
 ###
 
