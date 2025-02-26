@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
@@ -65,6 +63,8 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
