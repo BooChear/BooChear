@@ -9,16 +9,6 @@
 <br clear="both" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Tauri" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
 </div>
 
@@ -60,6 +50,17 @@
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Tauri" />
+  <img width="12" />
 </div>
 
 <br/>
